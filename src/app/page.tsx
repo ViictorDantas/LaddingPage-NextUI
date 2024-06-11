@@ -16,7 +16,7 @@ export default function Home() {
           <img src="/images.png" alt="" />
         </div>
         <div className="flex flex-col items-center justify-center">
-          <h1 className=' p-3 text-white'>SOBRE</h1>
+          <h1 className=' p-3 text-white text-xl'>SOBRE</h1>
           <span className='text-white'>Possui graduação em Educação Física pelo Centro Universitário de Patos (UNIFIP) (2018). Especialista em Treinamento Esportivo
             pelo Centro Universitário de Patos (UNIFIP). Especialista em Fisiologia do Exercício e Personal Trainer pelo Centro Universitário de Patos (UNIFIP) (2022).
             Mestre pelo programa de Modelos de Decisão e Saúde (PPGMDS) da Universidade Federal da Paraíba. Tem experiência na área de Educação Física, com ênfase em
@@ -24,13 +24,13 @@ export default function Home() {
         </div>
       </div>
       <div className='flex flex-col items-center'>
-        <h1 className='text-white flex flex-col items-center'>RESULTADOS</h1>
+        <h1 className='text-white flex flex-col items-center text-xl'>RESULTADOS</h1>
         <div className="flex items-center justify-center flex-col md:flex-row md:items-center md:justify-center" >
           <img className='foto_resultado p-5' src="results2.png" alt="" />
           <img className='foto_resultado p-5' src="results1.png" alt="" />
         </div>
         <div className="flex flex-col items-center justify-center">
-          <span className="text-white">Resultados do Aluno Rodrigo em 6 Meses:</span>
+          <span className="text-white text-xl">Resultados do Aluno Rodrigo em 6 Meses:</span>
           <span className="text-white text-justify tamanho2">
             Sob minha orientação e acompanhamento de um nutricionista, o aluno obteve melhorias significativas. A massa muscular aumentou, enquanto a gordura corporal
             reduziu, levando a um melhor desempenho físico. Além disso, houve melhorias na saúde geral, energia e bem-estar.
@@ -38,7 +38,7 @@ export default function Home() {
         </div>
       </div>
 
-      <span className='flex flex-col items-center text-white pt-7'>Planos</span>
+      <span className='flex flex-col items-center text-white pt-7 text-xl'>Planos</span>
       <div className='flex flex-col items-center'>
         <div className='flex flex-col md:flex-row items-center justify-center'>
           <div className='p-4'>
